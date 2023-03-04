@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92618328316",
+    "project_id": "mysmp-bac7f",
+    "storage_bucket": "mysmp-bac7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92618328316:android:11bfa531ce6c13d6972f79",
+        "android_client_info": {
+          "package_name": "com.mysmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92618328316-l8uh6v0n4k3g73aies4c7rphdceigri7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0-xcVVSvLf6XKf0LVafHoluKx0u-qAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92618328316-l8uh6v0n4k3g73aies4c7rphdceigri7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
